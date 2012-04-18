@@ -58,9 +58,11 @@ Hr's are easy to do, `---` will create one.
 3. Motorcycles!!!!
 
 This is an Ordered list. Create one this way:
-` 1. Item One
-2. Item Two
-3. Item three ` 
+
+	 	1. Item One
+		2. Item Two
+		3. Item three  
+		
 typing a number & a period then space you'll have an ordered item! 
 
 * I like to Move it
@@ -68,7 +70,12 @@ typing a number & a period then space you'll have an ordered item!
 * MOVE IT!
 
 This is an Unordered List. Create one like this:
-`* Item One * Item Two * Item Three` by typing * and space you create an unordered list.
+
+	* Item One 
+	* Item Two 
+	* Item Three
+ 
+ by typing * and space you create an unordered list.
 
 ###Code Snippets 
 		<div class="codeSnippet">
