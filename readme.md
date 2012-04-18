@@ -4,7 +4,7 @@
 
 Hi, I created this repo as an example of what Markdown can do. See the *markdown.md* file to see a full feature / style guide. If you're interested you might read the specs over at [The Daring Fireball](http://daringfireball.net/projects/markdown/syntax/ "Daring Fireball"). 
 I'll be updating this file with ways you can implement markdown in your everyday life to make it better. 
-If you decide that you just can't live with out markdown here's a list of apps to use in your adventures:
+If you decide that you just can't live with out markdown here's a list of apps (That i have personally used markdown in) to use in your adventures:
 
 |  **App:**  |  **Platform:**  |  **Cost:**  |
 |:---------:|:--------------:|----------:|
